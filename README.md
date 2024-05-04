@@ -5,4 +5,4 @@ This is a reproduction of [Minard's chart](https://en.wikipedia.org/wiki/Charles
 
 And here's the final result:
 
-![Minard's Chart of Napoleon's Russian Campaign](https://github.com/amitamola/minard_chart/blob/main/Ultimate_final.png)
+![Minard's Chart of Napoleon's Russian Campaign](https://github.com/kaminski-pawel/minard_chart/blob/main/Ultimate_final.png)
